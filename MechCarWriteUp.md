@@ -1,5 +1,4 @@
 # Module 15 Challenge - Improving MechaCar performance.	
-
 Statistical analysis of fictional automaker production data, using R, to run an MPG regression, a Suspension Coil Summary, and a Suspension Coil T-Test, *and a study of my own,*.
 
 ### Contents. 
@@ -26,7 +25,6 @@ Statistical analysis of fictional automaker production data, using R, to run an 
 *Correlation Matrix:*   The correlation matrix shows a moderate relationship between vehicle length and mpg. Ground clearance also appears to be a slightly moderate factor while the weight and spoiler angle relationships are weak.  
 
                              mpg
-
 vehicle_length_log10  	0.60556816
 vehicle_weight        		 0.09068314
 spoiler_angle                  -0.02083999
